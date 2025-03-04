@@ -4,5 +4,5 @@ pandas
 numpy
 scipy
 youtube-transcript-api
-openai
+openai==0.28
 yt-dlp
